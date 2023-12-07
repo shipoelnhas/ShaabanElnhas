@@ -15,7 +15,7 @@ Hello! I'm currently on a journey of learning and growth, exploring the realms o
 
 ## Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/shaaban-elnhas/))
+- [LinkedIn](https://www.linkedin.com/in/shaaban-elnhas/)
 - Email: shikaelnhas@gmail.com
   
 
