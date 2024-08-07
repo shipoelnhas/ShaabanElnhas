@@ -11,7 +11,7 @@ Hello! I'm currently on a journey of learning and growth, exploring the realms o
 ## Education
 
 - 🎓 **Tanta University**
-  - *Expected Graduation:* [10, 2025]
+  - *Expected Graduation:* [8, 2025]
 
 ## Connect with Me
 
